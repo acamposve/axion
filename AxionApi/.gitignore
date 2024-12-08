@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AxionApi/FileContentIndex
+/AxionApi/.config
+/AxionApi/bin
+/AxionApi/obj
+/AxionApi/Properties/PublishProfiles
+/.vs
+/Axion.Application/bin/Debug/net6.0
+/Axion.Application/obj
+/Axion.Infrastructure/bin/Debug/net6.0
+/Axion.Infrastructure/obj
+/AxionApi.Domain/bin
+/AxionApi.Domain/obj
+/Axion.Application/bin/Release/net6.0
+/Axion.Infrastructure/bin/Release/net6.0
+/Axion.Infrastructure.Repositories/bin/Debug/net6.0
+/Axion.Infrastructure.Repositories/obj
+/Axion.Infrastructure.RepositoriesTests/bin/Debug/net6.0
+/Axion.Infrastructure.RepositoriesTests/obj
