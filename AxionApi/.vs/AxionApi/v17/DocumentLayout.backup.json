@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18BF472-CB02-41F4-8649-85ADBB54DC45}|AxionApi\\AxionApi.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18BF472-CB02-41F4-8649-85ADBB54DC45}|AxionApi\\AxionApi.csproj|solutionrelative:axionapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258844E1-DC3C-4B91-B0F0-1475B2759784}|Axion.Infrastructure\\Axion.Infrastructure.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axion.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258844E1-DC3C-4B91-B0F0-1475B2759784}|Axion.Infrastructure\\Axion.Infrastructure.csproj|solutionrelative:axion.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CD7947-E945-40B8-8D3E-33F08E5E2CC0}|Axion.Application\\Axion.Application.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axion.application\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CD7947-E945-40B8-8D3E-33F08E5E2CC0}|Axion.Application\\Axion.Application.csproj|solutionrelative:axion.application\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\events\\idomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\events\\idomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\primitives\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\primitives\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\events\\basedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\events\\basedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\primitives\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|c:\\users\\a.campos\\source\\repos\\acamposve\\axionapi\\axionapi.domain\\primitives\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488C19FA-35C1-4F6F-A333-73AED56FD457}|AxionApi.Domain\\AxionApi.Domain.csproj|solutionrelative:axionapi.domain\\primitives\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AxionApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AxionApi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:33:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\Axion.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Axion.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\Axion.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "Axion.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:31:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\Axion.Application\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "Axion.Application\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\Axion.Application\\RegisterUser.cs",
+              "RelativeToolTip": "Axion.Application\\RegisterUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:27:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Primitives\\IAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\IAuditableEntity.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Primitives\\IAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:22:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDomainEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\IDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Events\\IDomainEventHandler.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\IDomainEventHandler.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Events\\IDomainEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:22:09.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:21:37.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Primitives\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Primitives\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:20:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Models\\Admin.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:00:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\BaseDomainEvent.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Events\\BaseDomainEvent.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Events\\BaseDomainEvent.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Events\\BaseDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:21:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Models\\User.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:14:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "AxionApi.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:15:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Extensions\\ResultExtensions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:16:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\ValueObject.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Primitives\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\ValueObject.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Primitives\\ValueObject.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:13:32.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\Result.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Primitives\\Result.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\Result.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Primitives\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:12:51.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "AxionApi.Domain\\Primitives\\Entity.cs",
+              "ToolTip": "C:\\Users\\a.campos\\source\\repos\\acamposve\\AxionApi\\AxionApi.Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "AxionApi.Domain\\Primitives\\Entity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:12:11.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

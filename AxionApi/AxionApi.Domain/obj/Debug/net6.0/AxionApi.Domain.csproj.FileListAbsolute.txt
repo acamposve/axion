@@ -1,0 +1,13 @@
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\bin\Debug\net6.0\AxionApi.Domain.deps.json
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\bin\Debug\net6.0\AxionApi.Domain.dll
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\bin\Debug\net6.0\AxionApi.Domain.pdb
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.csproj.AssemblyReference.cache
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.AssemblyInfoInputs.cache
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.AssemblyInfo.cs
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.sourcelink.json
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.dll
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\refint\AxionApi.Domain.dll
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\AxionApi.Domain.pdb
+C:\Users\a.campos\source\repos\acamposve\AxionApi\AxionApi.Domain\obj\Debug\net6.0\ref\AxionApi.Domain.dll
